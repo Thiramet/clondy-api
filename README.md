@@ -8,7 +8,7 @@
 
 >![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## What is clondy ?
+## What is Clondy ?
 > Cloudy is the brainchild of my latest venture into the world of Golang, a personal API that I developed to put my coding skills to the test.
 
 > As I continue to expand my expertise in Golang, I decided to take on a new challenge: building my very own API from scratch. And thus, Cloudy was born.
