@@ -32,11 +32,3 @@ type geometry interface {
 
 type style interface {
 }
-
-// // L ...
-// type L struct {
-// 	ID        primitive.ObjectID
-// 	Name      string
-// 	Geometry  map[string]interface{}
-// 	ProjectID primitive.ObjectID
-// }
