@@ -1,6 +1,9 @@
 # clondy
 
-## What is clondy?
+## framework ?
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
+
+## What is clondy ?
 > Cloudy is the brainchild of my latest venture into the world of Golang, a personal API that I developed to put my coding skills to the test.
 
 > As I continue to expand my expertise in Golang, I decided to take on a new challenge: building my very own API from scratch. And thus, Cloudy was born.
