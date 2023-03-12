@@ -1,6 +1,6 @@
-# clondy
+# Clondy
 
-## framework ?
+## Framework ?
 
 ><a href="https://echo.labstack.com"><img height="40" src="https://cdn.labstack.com/images/echo-logo.svg"></a>
 
